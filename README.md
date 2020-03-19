@@ -1,0 +1,1 @@
+# plantilla-sin-tecnologia-movil
